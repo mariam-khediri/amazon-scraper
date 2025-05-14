@@ -3,7 +3,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Selenium](https://img.shields.io/badge/selenium-4.15.2-red)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 A configurable web scraper that extracts product data from Amazon while evading bot detection.
 
